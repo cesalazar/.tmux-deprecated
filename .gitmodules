@@ -1,0 +1,18 @@
+[submodule "plugins/tmux-copycat"]
+	path = plugins/tmux-copycat
+	url = https://github.com/tmux-plugins/tmux-copycat
+[submodule "plugins/tmux-open"]
+	path = plugins/tmux-open
+	url = https://github.com/tmux-plugins/tmux-open
+[submodule "plugins/tmux-pain-control"]
+	path = plugins/tmux-pain-control
+	url = https://github.com/tmux-plugins/tmux-pain-control
+[submodule "plugins/tmux-resurrect"]
+	path = plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
